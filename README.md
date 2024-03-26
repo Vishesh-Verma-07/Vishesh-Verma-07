@@ -4,7 +4,7 @@
 </p>
 
 <!-- Intro -->
-<h2 align="center">Hi there, I'm Vishesh Verma 👋</h2>
+<h2 align="center">Hello there, I'm Vishesh Verma 👋</h2>
 <p align="center">Enthusiastic about crafting engaging user experiences through frontend development. 🚀<br/>Open to collaborations and new opportunities 💼</p>
 
 <!-- Badges -->
