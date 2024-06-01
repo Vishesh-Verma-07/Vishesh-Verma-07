@@ -4,7 +4,7 @@
 </p>
 
 <!-- Intro -->
-<h2 align="center">Hello there, I'm Vishesh Verma 👋</h2>
+<h2 align="center">Hello there, I'm Vishesh Verma 👋 </h2> 
 <p align="center">Enthusiastic about crafting engaging user experiences through frontend development. 🚀<br/>Open to collaborations and new opportunities 💼</p>
 
 <!-- Badges -->
@@ -12,10 +12,11 @@
   <a href="https://www.linkedin.com/in/vishesh-verma-76645924a/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"></a>
   <a href="https://codeforces.com/profile/Vishesh_Verma"><img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat&logo=Codeforces&logoColor=white"></a>
   <a href="https://www.codechef.com/users/vishesh_257"><img src="https://img.shields.io/badge/-Codechef-5B4638?style=flat&logo=Codechef&logoColor=white"></a>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=vishesh-verma-07&base=123&label=Profile%20views&color=0e75b6&style=flat" alt="vishesh-verma-07" /> </p>
 </p>
 
 <!-- About Me -->
-## 🌟 About Me
+## 🌟 About Me  
 
 Hey there! I'm Vishesh Verma, a second-year Computer Science student with a knack for frontend web development. Presently, I'm focused on refining my abilities to create engaging user interfaces and delightful user interactions.
 
