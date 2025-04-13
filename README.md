@@ -18,7 +18,7 @@
 <!-- About Me -->
 ## 🌟 About Me  
 
-Hey there! I'm Vishesh Verma, a second-year Computer Science student ith a strong passion for software development and problem-solving.
+Hey there! I'm Vishesh Verma, a Third-year Computer Science student ith a strong passion for software development and problem-solving.
 
 Beyond development, I'm deeply passionate about coding and problem-solving. I thrive on the challenges presented by algorithmic puzzles and coding competitions. With a CodeChef rating of 1607 (a 3-star coder) and a Codeforces highest rating of 1169, I'm constantly pushing my boundaries and expanding my skill set in the world of competitive programming.
 
